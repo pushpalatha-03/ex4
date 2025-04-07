@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this file added to remote location
+=======
+this file is added in fb
+>>>>>>> 42054e3 (committed)
